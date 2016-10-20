@@ -1,1 +1,2 @@
-Aula de Práticas - 20/10/2016
+Aula de Prï¿½ticas - 20/10/2016
+  - Aula sobre Git
